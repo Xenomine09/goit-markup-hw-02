@@ -38,7 +38,15 @@ body {
     color: #404bbf;
 }
 
+.link:focus{
+    color: #404BBF;
+}
+
 .button:hover{
+    background-color: #404BBF;
+}
+
+.button:focus{
     background-color: #404BBF;
 }
 
