@@ -34,6 +34,8 @@ body {
     letter-spacing: 0.03em;
 }
 
+
+
 .link:hover{
     color: #404bbf;
 }
@@ -48,6 +50,14 @@ body {
 
 .button:focus{
     background-color: #404BBF;
+}
+
+.btn:hover{
+    color: #ffffff;
+}
+
+.btn:focus{
+    color: #ffffff;
 }
 
 .address{
@@ -156,7 +166,7 @@ body {
 
 /* footer */
 .footer{
-    background-color: rgba(67, 68, 85, 1);
+    background-color: #2e2f42;
 }
 
 .logo-studio-white {
